@@ -13,6 +13,11 @@ A few resources to get you started if this is your first Flutter project:
 - [Json annotation: Data modeling](https://pub.dev/packages/json_annotation)
 - [Build runner: Generating files](https://pub.dev/packages/build_runner)
 
+## How to run this project
+
+- [Clone or download the project]
+
+
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
