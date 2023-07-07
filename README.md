@@ -15,7 +15,11 @@ A few resources to get you started if this is your first Flutter project:
 
 ## How to run this project
 
-- [Clone or download the project]
+- Clone or download the project
+- Open terminal -> command -> flutter pub get
+- Next -> command -> flutter pub run build_runner watch --delete-conflicting-outputs
+- Next -> Choose or Conect real device
+- Next -> command ->  Flutter run
 
 
 For help getting started with Flutter development, view the
